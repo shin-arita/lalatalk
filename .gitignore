@@ -1,0 +1,19 @@
+# Python
+*.pyc
+*.pyo
+__pycache__
+
+# Django
+db.sqlite3
+*.log
+
+# MySQL データベースファイル
+/db/mysql_data/
+
+# IDE/エディタの設定ファイル
+.vscode/
+.idea/
+
+# その他
+*.env
+*.DS_Store
